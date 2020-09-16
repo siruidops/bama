@@ -1,4 +1,4 @@
-# Sheypoor post discover
+# bama post discover
 
 ![Language](http://img.shields.io/:language-PYTHON-red.svg?style=flat-square) ![License](http://img.shields.io/:license-GPL-blue.svg?style=flat-square)
 
